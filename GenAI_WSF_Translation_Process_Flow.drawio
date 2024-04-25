@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-25T04:39:01.609Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="trfQd2JfEp0ygOaUmb85" version="24.2.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-04-25T04:42:07.908Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="kKGRasBWwFYYztDcl93z" version="24.2.8" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Pre Translation">
     <mxGraphModel dx="2305" dy="1798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -254,7 +254,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FcVJ3ZZeK_vV22ulwgh9" name="Translation">
-    <mxGraphModel dx="1283" dy="1955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2052" dy="2427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -285,7 +285,7 @@
         <mxCell id="WkbQCyuZwmRfDJxf0AiY-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WkbQCyuZwmRfDJxf0AiY-2" target="WkbQCyuZwmRfDJxf0AiY-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WkbQCyuZwmRfDJxf0AiY-2" value="&lt;b&gt;Create LLM prompt 1&lt;/b&gt; : Perform English to Vietnamese" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="WkbQCyuZwmRfDJxf0AiY-2" value="&lt;b&gt;Create LLM prompt 1&lt;/b&gt; : Perform English to Vietnamese" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="450" y="80" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nJkHgxGsFe584s16ZJyn-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.38;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WkbQCyuZwmRfDJxf0AiY-4" target="nJkHgxGsFe584s16ZJyn-24">
@@ -293,7 +293,7 @@
             <mxPoint x="960" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WkbQCyuZwmRfDJxf0AiY-4" value="Create a Base translation prompt" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="WkbQCyuZwmRfDJxf0AiY-4" value="Create a Base translation prompt" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="750" y="-30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WkbQCyuZwmRfDJxf0AiY-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WkbQCyuZwmRfDJxf0AiY-9" target="WkbQCyuZwmRfDJxf0AiY-11" edge="1">
@@ -306,47 +306,36 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WkbQCyuZwmRfDJxf0AiY-9" value="Brand preferences are added" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="WkbQCyuZwmRfDJxf0AiY-9" value="Brand preferences are added" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1770" y="145" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WkbQCyuZwmRfDJxf0AiY-11" value="Product names" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="WkbQCyuZwmRfDJxf0AiY-11" value="Product names" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1970" y="145" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WkbQCyuZwmRfDJxf0AiY-13" value="Ingredient names" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="WkbQCyuZwmRfDJxf0AiY-13" value="Ingredient names" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1970" y="235" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WkbQCyuZwmRfDJxf0AiY-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WkbQCyuZwmRfDJxf0AiY-15" target="WkbQCyuZwmRfDJxf0AiY-17" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="WkbQCyuZwmRfDJxf0AiY-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WkbQCyuZwmRfDJxf0AiY-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="400" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="WkbQCyuZwmRfDJxf0AiY-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WkbQCyuZwmRfDJxf0AiY-15" target="WkbQCyuZwmRfDJxf0AiY-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WkbQCyuZwmRfDJxf0AiY-15" value="&lt;b&gt;Create 2nd LLM Prompt&lt;/b&gt; using output of LLM prompt 1" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="WkbQCyuZwmRfDJxf0AiY-15" value="&lt;b&gt;Create 2nd LLM Prompt&lt;/b&gt; using output of LLM prompt 1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="485" y="370" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="WkbQCyuZwmRfDJxf0AiY-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="WkbQCyuZwmRfDJxf0AiY-15" target="WkbQCyuZwmRfDJxf0AiY-19" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="545" y="490" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WkbQCyuZwmRfDJxf0AiY-17" value="Add categorical Brand voice guidelines" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="750" y="370" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="WkbQCyuZwmRfDJxf0AiY-19" value="Paraphrasing to reword according to the brand voice guidelines" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="750" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WkbQCyuZwmRfDJxf0AiY-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="WkbQCyuZwmRfDJxf0AiY-22" target="WkbQCyuZwmRfDJxf0AiY-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WkbQCyuZwmRfDJxf0AiY-22" value="&lt;b&gt;Create 3rd LLM prompt&lt;/b&gt; to handle SEO keywords in the translated text ( Vietnamese)" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="WkbQCyuZwmRfDJxf0AiY-22" value="&lt;b&gt;Create 3rd LLM prompt&lt;/b&gt; to handle SEO keywords in the translated text ( Vietnamese)" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1180" y="1020" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WkbQCyuZwmRfDJxf0AiY-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WkbQCyuZwmRfDJxf0AiY-24" target="WkbQCyuZwmRfDJxf0AiY-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WkbQCyuZwmRfDJxf0AiY-24" value="Compare Source English text with SEO database ( containing eng to vietnamese keywords)" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="WkbQCyuZwmRfDJxf0AiY-24" value="Compare Source English text with SEO database ( containing eng to vietnamese keywords)" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="445" y="600" width="195" height="90" as="geometry" />
         </mxCell>
         <mxCell id="WkbQCyuZwmRfDJxf0AiY-29" value="NO MATCH" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.462;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="WkbQCyuZwmRfDJxf0AiY-46" target="WkbQCyuZwmRfDJxf0AiY-84" edge="1">
@@ -367,7 +356,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WkbQCyuZwmRfDJxf0AiY-30" value="Update the prompt to indicate the keywords to be replaced in the TARGET VIETNAMESE TRANSLATED TEXT FROM PROMPT 2, with the found SEO keywords in the DB.&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="WkbQCyuZwmRfDJxf0AiY-30" value="Update the prompt to indicate the keywords to be replaced in the TARGET VIETNAMESE TRANSLATED TEXT FROM PROMPT 2, with the found SEO keywords in the DB.&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1120" y="840" width="287.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WkbQCyuZwmRfDJxf0AiY-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WkbQCyuZwmRfDJxf0AiY-26" target="WkbQCyuZwmRfDJxf0AiY-42" edge="1">
@@ -376,7 +365,7 @@
         <mxCell id="WkbQCyuZwmRfDJxf0AiY-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WkbQCyuZwmRfDJxf0AiY-26" target="WkbQCyuZwmRfDJxf0AiY-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WkbQCyuZwmRfDJxf0AiY-26" value="If there are matches of the source eng in the SEO database, then apply filter to extract only those keywords" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="WkbQCyuZwmRfDJxf0AiY-26" value="If there are matches of the source eng in the SEO database, then apply filter to extract only those keywords" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="425" y="760" width="240" height="240" as="geometry" />
         </mxCell>
         <mxCell id="WkbQCyuZwmRfDJxf0AiY-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.417;entryY=0.039;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="WkbQCyuZwmRfDJxf0AiY-30" target="WkbQCyuZwmRfDJxf0AiY-22" edge="1">
@@ -387,13 +376,13 @@
             <mxPoint x="545" y="1910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WkbQCyuZwmRfDJxf0AiY-40" value="&lt;b&gt;Create 4th LLM prompt&lt;/b&gt; to handle Banned keywords in the translated text ( Vietnamese)" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="WkbQCyuZwmRfDJxf0AiY-40" value="&lt;b&gt;Create 4th LLM prompt&lt;/b&gt; to handle Banned keywords in the translated text ( Vietnamese)" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="1170" y="1629" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WkbQCyuZwmRfDJxf0AiY-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WkbQCyuZwmRfDJxf0AiY-42" target="WkbQCyuZwmRfDJxf0AiY-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WkbQCyuZwmRfDJxf0AiY-42" value="Compare VIETNAMESE text FROM PREVIOUS PROMPT with BANNED keyword database ( containing vietnamese keywords)" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="WkbQCyuZwmRfDJxf0AiY-42" value="Compare VIETNAMESE text FROM PREVIOUS PROMPT with BANNED keyword database ( containing vietnamese keywords)" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="445" y="1209" width="195" height="90" as="geometry" />
         </mxCell>
         <mxCell id="WkbQCyuZwmRfDJxf0AiY-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WkbQCyuZwmRfDJxf0AiY-46" target="WkbQCyuZwmRfDJxf0AiY-45" edge="1">
@@ -404,10 +393,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WkbQCyuZwmRfDJxf0AiY-45" value="Update the prompt to indicate the keywords to be replaced in the TARGET VIETNAMESE TRANSLATED TEXT with alternate keywords." style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="WkbQCyuZwmRfDJxf0AiY-45" value="Update the prompt to indicate the keywords to be replaced in the TARGET VIETNAMESE TRANSLATED TEXT with alternate keywords." style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="1120" y="1449" width="287.5" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WkbQCyuZwmRfDJxf0AiY-46" value="If there are matches of the vetnamese keywords in the Banned database, then apply filter to extract only those keywords" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="WkbQCyuZwmRfDJxf0AiY-46" value="If there are matches of the vetnamese keywords in the Banned database, then apply filter to extract only those keywords" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="425" y="1369" width="240" height="240" as="geometry" />
         </mxCell>
         <mxCell id="WkbQCyuZwmRfDJxf0AiY-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.417;entryY=0.039;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="WkbQCyuZwmRfDJxf0AiY-45" target="WkbQCyuZwmRfDJxf0AiY-40" edge="1">
@@ -520,13 +509,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nJkHgxGsFe584s16ZJyn-6" value="MATCH %AGE &amp;gt; 90" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nJkHgxGsFe584s16ZJyn-6" value="MATCH %AGE &amp;gt; 90" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1290" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nJkHgxGsFe584s16ZJyn-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nJkHgxGsFe584s16ZJyn-7" target="WkbQCyuZwmRfDJxf0AiY-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nJkHgxGsFe584s16ZJyn-7" value="Use few shots prompt design for performing translations" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nJkHgxGsFe584s16ZJyn-7" value="Use few shots prompt design for performing translations" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1470" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nJkHgxGsFe584s16ZJyn-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nJkHgxGsFe584s16ZJyn-12" target="nJkHgxGsFe584s16ZJyn-14">
@@ -545,13 +534,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nJkHgxGsFe584s16ZJyn-12" value="MATCH %AGE BETWEEN 85 AND 90%" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nJkHgxGsFe584s16ZJyn-12" value="MATCH %AGE BETWEEN 85 AND 90%" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1270" y="160" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="nJkHgxGsFe584s16ZJyn-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nJkHgxGsFe584s16ZJyn-14" target="WkbQCyuZwmRfDJxf0AiY-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nJkHgxGsFe584s16ZJyn-14" value="Use the &quot;default examples&quot; as few shot references in the prompt design for performing translations" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nJkHgxGsFe584s16ZJyn-14" value="Use the &quot;default examples&quot; as few shot references in the prompt design for performing translations" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1470" y="190" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nJkHgxGsFe584s16ZJyn-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nJkHgxGsFe584s16ZJyn-17" target="nJkHgxGsFe584s16ZJyn-19">
@@ -562,17 +551,29 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nJkHgxGsFe584s16ZJyn-17" value="MATCH %AGE &amp;lt; 85" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nJkHgxGsFe584s16ZJyn-17" value="MATCH %AGE &amp;lt; 85" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1290" y="380" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nJkHgxGsFe584s16ZJyn-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nJkHgxGsFe584s16ZJyn-19" target="WkbQCyuZwmRfDJxf0AiY-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nJkHgxGsFe584s16ZJyn-19" value="Use &quot;zero shot&quot;, directly using LLM API to perform the translations" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nJkHgxGsFe584s16ZJyn-19" value="Use &quot;zero shot&quot;, directly using LLM API to perform the translations" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1480" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nJkHgxGsFe584s16ZJyn-24" value="Check for similar content in Vector DB as the source content" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nJkHgxGsFe584s16ZJyn-24" value="Check for similar content in Vector DB as the source content" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1070" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nJkHgxGsFe584s16ZJyn-29" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="710" y="320" width="433" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="nJkHgxGsFe584s16ZJyn-28" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="nJkHgxGsFe584s16ZJyn-29">
+          <mxGeometry width="433" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="WkbQCyuZwmRfDJxf0AiY-17" value="Add categorical Brand voice guidelines" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="nJkHgxGsFe584s16ZJyn-29" vertex="1">
+          <mxGeometry x="40" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WkbQCyuZwmRfDJxf0AiY-19" value="Paraphrasing to reword according to the brand voice guidelines" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="nJkHgxGsFe584s16ZJyn-29" vertex="1">
+          <mxGeometry x="240" y="50" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
