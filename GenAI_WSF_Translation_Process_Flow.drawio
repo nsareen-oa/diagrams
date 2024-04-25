@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-25T04:54:56.665Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="RpG5KSElgUOMIJ9X7ycv" version="24.2.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-04-25T04:56:23.212Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="nMj6P7WXF3UIbAHUBqFB" version="24.2.8" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Pre Translation">
     <mxGraphModel dx="2305" dy="1798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -277,7 +277,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WkbQCyuZwmRfDJxf0AiY-1" value="FOR EACH SEGMENT TO BE TRANSLATED IN THE PAGE ID" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="180" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="10" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WkbQCyuZwmRfDJxf0AiY-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WkbQCyuZwmRfDJxf0AiY-2" target="WkbQCyuZwmRfDJxf0AiY-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -586,14 +586,14 @@
         <mxCell id="iBDq_uLeN-yNTdiy06ZR-1" value="SAVE THE RESULTS IN THE DICTIONARY OBJECT" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="480" y="3950" width="195" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="iBDq_uLeN-yNTdiy06ZR-6" value="Translation completed" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="538" y="4070" width="80" height="80" as="geometry" />
+        <mxCell id="iBDq_uLeN-yNTdiy06ZR-6" value="Translation completed. Will connect with post translation journey" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="538" y="4070" width="110" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="oCgSaWmihOnhCYk1po9R" name="Post Translation">
-    <mxGraphModel dx="855" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="789" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -601,16 +601,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CbTOkyyDrVe3HHNa8El5-1" value="The final translation result for the &quot;segment&quot; is used to generate low confidence keywords&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="20" width="190" height="60" as="geometry" />
+          <mxGeometry x="255" y="20" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w9Tm6UY4gvZTHsVF_Zpw-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w9Tm6UY4gvZTHsVF_Zpw-1" target="w9Tm6UY4gvZTHsVF_Zpw-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="w9Tm6UY4gvZTHsVF_Zpw-1" value="Create LLM prompt ( GPT 4) 1 for Low confidence keyword identification ( &lt;b&gt;Source content&lt;/b&gt;, f&lt;b&gt;inal Target conten&lt;/b&gt;t). Threshold shared with LLM is 80%, anything below the threshold will be flagged by the LLM model and shared as a JSON of alternate keywords" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="5" y="160" width="340" height="90" as="geometry" />
+          <mxGeometry x="180" y="160" width="340" height="90" as="geometry" />
         </mxCell>
         <mxCell id="w9Tm6UY4gvZTHsVF_Zpw-3" value="Create LLM prompt ( GPT 4) 1 for Low confidence sentences identification ( &lt;b&gt;Source content&lt;/b&gt;, f&lt;b&gt;inal Target conten&lt;/b&gt;t). Threshold shared with LLM is 80%, anything below the threshold will be flagged by the LLM model and shared as a JSON of alternate sentences" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="5" y="310" width="340" height="90" as="geometry" />
+          <mxGeometry x="180" y="310" width="340" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="oZ1RQYtGbEAcSGIwJ_MT-1" value="Continuing from translation journey" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="50" y="20" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
