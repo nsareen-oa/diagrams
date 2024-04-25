@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-25T04:43:36.070Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="3mu8WamPRQO1wlJ5yhez" version="24.2.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-04-25T04:46:18.559Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="0HhEGNwTQLgsErnvYZLq" version="24.2.8" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Pre Translation">
     <mxGraphModel dx="2305" dy="1798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -254,7 +254,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FcVJ3ZZeK_vV22ulwgh9" name="Translation">
-    <mxGraphModel dx="1207" dy="1909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2280" dy="1398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -276,8 +276,8 @@
         <mxCell id="WkbQCyuZwmRfDJxf0AiY-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WkbQCyuZwmRfDJxf0AiY-1" target="WkbQCyuZwmRfDJxf0AiY-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WkbQCyuZwmRfDJxf0AiY-1" value="FOR EACH SEGMENT TO BE TRANSLATED IN THE PAGE ID" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="200" y="80" width="120" height="60" as="geometry" />
+        <mxCell id="WkbQCyuZwmRfDJxf0AiY-1" value="FOR EACH SEGMENT TO BE TRANSLATED IN THE PAGE ID" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="180" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WkbQCyuZwmRfDJxf0AiY-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WkbQCyuZwmRfDJxf0AiY-2" target="WkbQCyuZwmRfDJxf0AiY-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -290,11 +290,11 @@
         </mxCell>
         <mxCell id="nJkHgxGsFe584s16ZJyn-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.38;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WkbQCyuZwmRfDJxf0AiY-4" target="nJkHgxGsFe584s16ZJyn-24">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="960" y="40" as="targetPoint" />
+            <mxPoint x="960" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WkbQCyuZwmRfDJxf0AiY-4" value="Create a Base translation prompt" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="750" y="-30" width="120" height="60" as="geometry" />
+          <mxGeometry x="750" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WkbQCyuZwmRfDJxf0AiY-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WkbQCyuZwmRfDJxf0AiY-9" target="WkbQCyuZwmRfDJxf0AiY-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -302,18 +302,18 @@
         <mxCell id="WkbQCyuZwmRfDJxf0AiY-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WkbQCyuZwmRfDJxf0AiY-9" target="WkbQCyuZwmRfDJxf0AiY-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1840" y="265" />
+              <mxPoint x="1840" y="325" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WkbQCyuZwmRfDJxf0AiY-9" value="Brand preferences are added" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1770" y="145" width="120" height="60" as="geometry" />
+          <mxGeometry x="1770" y="205" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WkbQCyuZwmRfDJxf0AiY-11" value="Product names" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1970" y="145" width="120" height="60" as="geometry" />
+          <mxGeometry x="1970" y="205" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WkbQCyuZwmRfDJxf0AiY-13" value="Ingredient names" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1970" y="235" width="120" height="60" as="geometry" />
+          <mxGeometry x="1970" y="295" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WkbQCyuZwmRfDJxf0AiY-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WkbQCyuZwmRfDJxf0AiY-15" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -405,13 +405,13 @@
         <mxCell id="WkbQCyuZwmRfDJxf0AiY-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="WkbQCyuZwmRfDJxf0AiY-53" target="WkbQCyuZwmRfDJxf0AiY-80" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WkbQCyuZwmRfDJxf0AiY-53" value="&lt;b&gt;Create 5th LLM prompt&lt;/b&gt; to handle Ontology keywords in the translated text ( Vietnamese)" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="WkbQCyuZwmRfDJxf0AiY-53" value="&lt;b&gt;Create 5th LLM prompt&lt;/b&gt; to handle Ontology keywords in the translated text ( Vietnamese)" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1180" y="2310" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WkbQCyuZwmRfDJxf0AiY-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WkbQCyuZwmRfDJxf0AiY-55" target="WkbQCyuZwmRfDJxf0AiY-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WkbQCyuZwmRfDJxf0AiY-55" value="Compare VIETNAMESE text FROM PREVIOUS PROMPT with ONTOLOGY keyword database ( containing vietnamese keywords)" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="WkbQCyuZwmRfDJxf0AiY-55" value="Compare VIETNAMESE text FROM PREVIOUS PROMPT with ONTOLOGY keyword database ( containing vietnamese keywords)" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="455" y="1890" width="195" height="90" as="geometry" />
         </mxCell>
         <mxCell id="WkbQCyuZwmRfDJxf0AiY-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WkbQCyuZwmRfDJxf0AiY-59" target="WkbQCyuZwmRfDJxf0AiY-58" edge="1">
@@ -422,7 +422,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WkbQCyuZwmRfDJxf0AiY-58" value="Update the prompt to indicate the keywords to be replaced in the TARGET VIETNAMESE TRANSLATED TEXT with the matched values of the keywords" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="WkbQCyuZwmRfDJxf0AiY-58" value="Update the prompt to indicate the keywords to be replaced in the TARGET VIETNAMESE TRANSLATED TEXT with the matched values of the keywords" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1130" y="2130" width="287.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WkbQCyuZwmRfDJxf0AiY-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WkbQCyuZwmRfDJxf0AiY-59" target="WkbQCyuZwmRfDJxf0AiY-80" edge="1">
@@ -433,7 +433,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WkbQCyuZwmRfDJxf0AiY-59" value="If there are matches of the vetnamese keywords in the Ontology database, then apply filter to extract only those keywords" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="WkbQCyuZwmRfDJxf0AiY-59" value="If there are matches of the vetnamese keywords in the Ontology database, then apply filter to extract only those keywords" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="435" y="2050" width="240" height="240" as="geometry" />
         </mxCell>
         <mxCell id="WkbQCyuZwmRfDJxf0AiY-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.417;entryY=0.039;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="WkbQCyuZwmRfDJxf0AiY-58" target="WkbQCyuZwmRfDJxf0AiY-53" edge="1">
@@ -442,46 +442,46 @@
         <mxCell id="WkbQCyuZwmRfDJxf0AiY-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WkbQCyuZwmRfDJxf0AiY-62" target="WkbQCyuZwmRfDJxf0AiY-75" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WkbQCyuZwmRfDJxf0AiY-62" value="&lt;b&gt;Create 6th LLM prompt&lt;/b&gt; to handle VOCAB keywords in the translated text ( Vietnamese)" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="WkbQCyuZwmRfDJxf0AiY-62" value="&lt;b&gt;Create 6th LLM prompt&lt;/b&gt; to handle VOCAB keywords in the translated text ( Vietnamese)" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1190" y="2940" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WkbQCyuZwmRfDJxf0AiY-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WkbQCyuZwmRfDJxf0AiY-64" target="WkbQCyuZwmRfDJxf0AiY-67" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WkbQCyuZwmRfDJxf0AiY-64" value="Compare VIETNAMESE text FROM PREVIOUS PROMPT with VOCAB keyword database ( containing vietnamese keywords)" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="WkbQCyuZwmRfDJxf0AiY-64" value="Compare VIETNAMESE text FROM PREVIOUS PROMPT with VOCAB keyword database ( containing vietnamese keywords)" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="455" y="2520" width="195" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="WkbQCyuZwmRfDJxf0AiY-67" value="Update the prompt to indicate the keywords to be replaced in the TARGET VIETNAMESE TRANSLATED TEXT with the matched values of the keywords" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="WkbQCyuZwmRfDJxf0AiY-67" value="Update the prompt to indicate the keywords to be replaced in the TARGET VIETNAMESE TRANSLATED TEXT with the matched values of the keywords" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1130" y="2760" width="287.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WkbQCyuZwmRfDJxf0AiY-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.417;entryY=0.039;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="WkbQCyuZwmRfDJxf0AiY-67" target="WkbQCyuZwmRfDJxf0AiY-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WkbQCyuZwmRfDJxf0AiY-73" value="&lt;b&gt;Create 6th LLM prompt&lt;/b&gt; to handle VOCAB keywords in the translated text ( Vietnamese)" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="WkbQCyuZwmRfDJxf0AiY-73" value="&lt;b&gt;Create 6th LLM prompt&lt;/b&gt; to handle VOCAB keywords in the translated text ( Vietnamese)" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1190" y="3810" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WkbQCyuZwmRfDJxf0AiY-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WkbQCyuZwmRfDJxf0AiY-75" target="WkbQCyuZwmRfDJxf0AiY-76" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WkbQCyuZwmRfDJxf0AiY-75" value="SAVE THE RESULTS IN THE DATABASE" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="WkbQCyuZwmRfDJxf0AiY-75" value="SAVE THE RESULTS IN THE DATABASE" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="455" y="3390" width="195" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="WkbQCyuZwmRfDJxf0AiY-76" value="Update the prompt to indicate the keywords to be replaced in the TARGET VIETNAMESE TRANSLATED TEXT with the matched values of the keywords" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="WkbQCyuZwmRfDJxf0AiY-76" value="Update the prompt to indicate the keywords to be replaced in the TARGET VIETNAMESE TRANSLATED TEXT with the matched values of the keywords" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1130" y="3630" width="287.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WkbQCyuZwmRfDJxf0AiY-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.417;entryY=0.039;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="WkbQCyuZwmRfDJxf0AiY-76" target="WkbQCyuZwmRfDJxf0AiY-73" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WkbQCyuZwmRfDJxf0AiY-79" value="SAVE THE RESULTS IN THE DICTIONARY OBJECT" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="WkbQCyuZwmRfDJxf0AiY-79" value="SAVE THE RESULTS IN THE DICTIONARY OBJECT" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="455" y="3100" width="195" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WkbQCyuZwmRfDJxf0AiY-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="WkbQCyuZwmRfDJxf0AiY-80" target="WkbQCyuZwmRfDJxf0AiY-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WkbQCyuZwmRfDJxf0AiY-80" value="SAVE THE RESULTS IN THE DICTIONARY OBJECT" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="WkbQCyuZwmRfDJxf0AiY-80" value="SAVE THE RESULTS IN THE DICTIONARY OBJECT" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="605" y="2430" width="195" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WkbQCyuZwmRfDJxf0AiY-84" value="SAVE THE RESULTS IN THE DICTIONARY OBJECT" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="WkbQCyuZwmRfDJxf0AiY-84" value="SAVE THE RESULTS IN THE DICTIONARY OBJECT" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="665" y="1770" width="195" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WkbQCyuZwmRfDJxf0AiY-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.436;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="WkbQCyuZwmRfDJxf0AiY-84" target="WkbQCyuZwmRfDJxf0AiY-55" edge="1">
@@ -489,8 +489,8 @@
         </mxCell>
         <mxCell id="nJkHgxGsFe584s16ZJyn-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nJkHgxGsFe584s16ZJyn-24" target="nJkHgxGsFe584s16ZJyn-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1090" y="40" as="sourcePoint" />
-            <mxPoint x="1270" y="40" as="targetPoint" />
+            <mxPoint x="1090" y="100" as="sourcePoint" />
+            <mxPoint x="1270" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nJkHgxGsFe584s16ZJyn-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nJkHgxGsFe584s16ZJyn-6" target="nJkHgxGsFe584s16ZJyn-7">
@@ -510,13 +510,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nJkHgxGsFe584s16ZJyn-6" value="MATCH %AGE &amp;gt; 90" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1290" width="80" height="80" as="geometry" />
+          <mxGeometry x="1290" y="60" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nJkHgxGsFe584s16ZJyn-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nJkHgxGsFe584s16ZJyn-7" target="WkbQCyuZwmRfDJxf0AiY-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nJkHgxGsFe584s16ZJyn-7" value="Use few shots prompt design for performing translations" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1470" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="1470" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nJkHgxGsFe584s16ZJyn-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nJkHgxGsFe584s16ZJyn-12" target="nJkHgxGsFe584s16ZJyn-14">
           <mxGeometry relative="1" as="geometry" />
@@ -535,13 +535,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nJkHgxGsFe584s16ZJyn-12" value="MATCH %AGE BETWEEN 85 AND 90%" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="160" width="120" height="120" as="geometry" />
+          <mxGeometry x="1270" y="220" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="nJkHgxGsFe584s16ZJyn-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nJkHgxGsFe584s16ZJyn-14" target="WkbQCyuZwmRfDJxf0AiY-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nJkHgxGsFe584s16ZJyn-14" value="Use the &quot;default examples&quot; as few shot references in the prompt design for performing translations" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1470" y="190" width="170" height="60" as="geometry" />
+          <mxGeometry x="1470" y="250" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nJkHgxGsFe584s16ZJyn-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nJkHgxGsFe584s16ZJyn-17" target="nJkHgxGsFe584s16ZJyn-19">
           <mxGeometry relative="1" as="geometry" />
@@ -552,19 +552,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nJkHgxGsFe584s16ZJyn-17" value="MATCH %AGE &amp;lt; 85" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="380" width="80" height="80" as="geometry" />
+          <mxGeometry x="1290" y="440" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nJkHgxGsFe584s16ZJyn-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nJkHgxGsFe584s16ZJyn-19" target="WkbQCyuZwmRfDJxf0AiY-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nJkHgxGsFe584s16ZJyn-19" value="Use &quot;zero shot&quot;, directly using LLM API to perform the translations" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="1480" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nJkHgxGsFe584s16ZJyn-24" value="Check for similar content in Vector DB as the source content" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="1070" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nJkHgxGsFe584s16ZJyn-29" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="710" y="320" width="433" height="160" as="geometry" />
+          <mxGeometry x="710" y="380" width="433" height="160" as="geometry" />
         </mxCell>
         <mxCell id="nJkHgxGsFe584s16ZJyn-28" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="nJkHgxGsFe584s16ZJyn-29">
           <mxGeometry width="433" height="160" as="geometry" />
@@ -574,6 +574,9 @@
         </mxCell>
         <mxCell id="WkbQCyuZwmRfDJxf0AiY-19" value="Paraphrasing to reword according to the brand voice guidelines" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="nJkHgxGsFe584s16ZJyn-29" vertex="1">
           <mxGeometry x="240" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nJkHgxGsFe584s16ZJyn-30" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;TODOs&lt;/h1&gt;&lt;p&gt;Search strategy to use Vector DB or DSA Algorithms to optimize the search of keywords across iterations of creating prompts&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="2240" y="585" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
