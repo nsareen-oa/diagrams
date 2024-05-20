@@ -1,77 +1,92 @@
-<mxfile host="app.diagrams.net" modified="2024-05-20T04:17:36.590Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="wbBrKrMC5FunIQBOtmnd" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-20T04:33:00.960Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="MjBGKAzgM9QN7EQAdFUq" version="24.4.0" type="github">
   <diagram name="Genome Arch" id="9m0ilViY6gOGbBUAO9Fo">
-    <mxGraphModel dx="1578" dy="2107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1080" dy="1811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-95" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="-900" width="1350" height="1290" as="geometry" />
+          <mxGeometry x="40" y="-1070" width="1350" height="1490" as="geometry" />
+        </mxCell>
+        <mxCell id="xrs2LPAoIaT8d_hiwX7s-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-130" width="780" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="xrs2LPAoIaT8d_hiwX7s-107" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-40" width="670" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xrs2LPAoIaT8d_hiwX7s-108" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="30" width="670" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xrs2LPAoIaT8d_hiwX7s-109" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="100" width="670" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xrs2LPAoIaT8d_hiwX7s-106" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="170" width="670" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xrs2LPAoIaT8d_hiwX7s-102" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="310" width="670" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xrs2LPAoIaT8d_hiwX7s-101" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="240" width="670" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-54" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="440" width="870" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="xrs2LPAoIaT8d_hiwX7s-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="90" width="800" height="260" as="geometry" />
-        </mxCell>
-        <mxCell id="xrs2LPAoIaT8d_hiwX7s-2" value="LLM Grounding" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="175" y="200" width="120" height="40" as="geometry" />
+        <mxCell id="xrs2LPAoIaT8d_hiwX7s-2" value="Generative &amp;amp; LLM Grounding" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="415" y="120" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-3" value="MLOps" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="200" width="110" height="40" as="geometry" />
+          <mxGeometry x="710.5" y="120" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-4" value="Business Simulation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="454" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="399" y="40" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-5" value="UI Framework" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="150" width="90" height="40" as="geometry" />
+          <mxGeometry x="395" y="-30" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-6" value="API Management ( AWS)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="409.5" y="150" width="151" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="xrs2LPAoIaT8d_hiwX7s-7" value="API Management ( AWS)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="619" y="150" width="151" height="40" as="geometry" />
+          <mxGeometry x="574" y="90" width="151" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-15" value="&lt;b&gt;Genome Core ( Components)&lt;/b&gt;&lt;div&gt;Genome architecture common services&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="389" y="100" width="230" height="30" as="geometry" />
+          <mxGeometry x="559" y="-110" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-16" value="Generic Knowledge Graph DB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="250" y="290" width="110" height="40" as="geometry" />
+          <mxGeometry x="420" y="250" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-17" value="Schema management" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="389" y="290" width="90" height="40" as="geometry" />
+          <mxGeometry x="559" y="250" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-19" value="Configuration Schema DB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="520" y="290" width="90" height="40" as="geometry" />
+          <mxGeometry x="690" y="250" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-20" value="Simulation snapshot management DB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="650" y="290" width="140" height="40" as="geometry" />
+          <mxGeometry x="820" y="250" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="-250" width="520" height="250" as="geometry" />
+          <mxGeometry x="145" y="-440" width="520" height="250" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-22" value="LLM proxy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="-230" width="90" height="40" as="geometry" />
+          <mxGeometry x="185" y="-420" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-23" value="Feedback managment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="345" y="-230" width="90" height="40" as="geometry" />
+          <mxGeometry x="340" y="-420" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-24" value="Metadata services" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="-230" width="90" height="40" as="geometry" />
+          <mxGeometry x="515" y="-420" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-25" value="LLM Grounding" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;strokeColor=none;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="320" y="-50" width="153" height="36" as="geometry" />
+          <mxGeometry x="315" y="-240" width="153" height="36" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-26" value="Ontology management services" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="-170" width="140" height="40" as="geometry" />
+          <mxGeometry x="185" y="-360" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-27" value="AI Agents management" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="-170" width="140" height="40" as="geometry" />
+          <mxGeometry x="345" y="-360" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xrs2LPAoIaT8d_hiwX7s-28" value="LLM Workflows managment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="505.5" y="-170" width="140" height="40" as="geometry" />
+        <mxCell id="xrs2LPAoIaT8d_hiwX7s-28" value="&lt;b&gt;LLM Workflows&lt;/b&gt; managment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500.5" y="-360" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-29" value="LLM Prompt repository" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="-110" width="140" height="40" as="geometry" />
+          <mxGeometry x="185" y="-300" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-30" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="500" width="320" height="60" as="geometry" />
@@ -107,118 +122,139 @@
           <mxGeometry x="433.5" y="785" width="161" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="-260" width="520" height="250" as="geometry" />
+          <mxGeometry x="685" y="-450" width="520" height="250" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-59" value="LLM proxy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="-240" width="90" height="40" as="geometry" />
+          <mxGeometry x="725" y="-430" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-60" value="Feedback managment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="885" y="-240" width="90" height="40" as="geometry" />
+          <mxGeometry x="880" y="-430" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-61" value="Metadata services" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="-240" width="90" height="40" as="geometry" />
+          <mxGeometry x="1055" y="-430" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-62" value="MLOps" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;strokeColor=none;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="860" y="-60" width="153" height="36" as="geometry" />
+          <mxGeometry x="855" y="-250" width="153" height="36" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-63" value="Ontology management services" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="-180" width="140" height="40" as="geometry" />
+          <mxGeometry x="725" y="-370" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-64" value="AI Agents management" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="-180" width="140" height="40" as="geometry" />
+          <mxGeometry x="885" y="-370" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-65" value="LLM Workflows managment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1045.5" y="-180" width="140" height="40" as="geometry" />
+          <mxGeometry x="1040.5" y="-370" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-66" value="LLM Prompt repository" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="-120" width="140" height="40" as="geometry" />
+          <mxGeometry x="725" y="-310" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-67" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="-530" width="520" height="250" as="geometry" />
+          <mxGeometry x="685" y="-720" width="520" height="250" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-68" value="LLM proxy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="-510" width="90" height="40" as="geometry" />
+          <mxGeometry x="725" y="-700" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-69" value="Feedback managment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="885" y="-510" width="90" height="40" as="geometry" />
+          <mxGeometry x="880" y="-700" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-70" value="Metadata services" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="-510" width="90" height="40" as="geometry" />
+          <mxGeometry x="1055" y="-700" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-71" value="Business Simulation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;strokeColor=none;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="860" y="-330" width="153" height="36" as="geometry" />
+          <mxGeometry x="855" y="-520" width="153" height="36" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-72" value="Ontology management services" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="-450" width="140" height="40" as="geometry" />
+          <mxGeometry x="725" y="-640" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-73" value="AI Agents management" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="-450" width="140" height="40" as="geometry" />
+          <mxGeometry x="885" y="-640" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-74" value="LLM Workflows managment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1045.5" y="-450" width="140" height="40" as="geometry" />
+          <mxGeometry x="1040.5" y="-640" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-75" value="LLM Prompt repository" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="-390" width="140" height="40" as="geometry" />
+          <mxGeometry x="725" y="-580" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-76" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="154" y="-530" width="520" height="250" as="geometry" />
+          <mxGeometry x="149" y="-720" width="520" height="250" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-77" value="LLM proxy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="194" y="-510" width="90" height="40" as="geometry" />
+          <mxGeometry x="189" y="-700" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-78" value="Feedback managment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="349" y="-510" width="90" height="40" as="geometry" />
+          <mxGeometry x="344" y="-700" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-79" value="Metadata services" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="524" y="-510" width="90" height="40" as="geometry" />
+          <mxGeometry x="519" y="-700" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-80" value="UI Framework" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;strokeColor=none;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="324" y="-330" width="153" height="36" as="geometry" />
+          <mxGeometry x="319" y="-520" width="153" height="36" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-81" value="Ontology management services" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="194" y="-450" width="140" height="40" as="geometry" />
+          <mxGeometry x="189" y="-640" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-82" value="AI Agents management" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="-450" width="140" height="40" as="geometry" />
+          <mxGeometry x="349" y="-640" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-83" value="LLM Workflows managment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="509.5" y="-450" width="140" height="40" as="geometry" />
+          <mxGeometry x="504.5" y="-640" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-84" value="LLM Prompt repository" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="194" y="-390" width="140" height="40" as="geometry" />
+          <mxGeometry x="189" y="-580" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-85" value="Signal processing &amp;amp; Rule management" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="560" y="40" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-86" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="154" y="-800" width="520" height="250" as="geometry" />
+          <mxGeometry x="149" y="-990" width="520" height="250" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-87" value="LLM proxy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="194" y="-780" width="90" height="40" as="geometry" />
+          <mxGeometry x="189" y="-970" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-88" value="Feedback managment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="349" y="-780" width="90" height="40" as="geometry" />
+          <mxGeometry x="344" y="-970" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-89" value="Metadata services" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="524" y="-780" width="90" height="40" as="geometry" />
+          <mxGeometry x="519" y="-970" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-90" value="Signal processing &amp;amp; rule management" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;strokeColor=none;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="324" y="-600" width="153" height="36" as="geometry" />
+          <mxGeometry x="319" y="-790" width="153" height="36" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-91" value="Ontology management services" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="194" y="-720" width="140" height="40" as="geometry" />
+          <mxGeometry x="189" y="-910" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-92" value="AI Agents management" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="-720" width="140" height="40" as="geometry" />
+          <mxGeometry x="349" y="-910" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-93" value="LLM Workflows managment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="509.5" y="-720" width="140" height="40" as="geometry" />
+          <mxGeometry x="504.5" y="-910" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-94" value="LLM Prompt repository" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="194" y="-660" width="140" height="40" as="geometry" />
+          <mxGeometry x="189" y="-850" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xrs2LPAoIaT8d_hiwX7s-96" value="&lt;b&gt;Genome core architecture&amp;nbsp;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="580" y="-890" width="230" height="30" as="geometry" />
+          <mxGeometry x="580" y="-1060" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xrs2LPAoIaT8d_hiwX7s-97" value="Observability" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xrs2LPAoIaT8d_hiwX7s-98" value="Security &amp;amp; RBAC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xrs2LPAoIaT8d_hiwX7s-99" value="Explainability" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="695.5" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xrs2LPAoIaT8d_hiwX7s-100" value="Audit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830.5" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xrs2LPAoIaT8d_hiwX7s-103" value="Workflows &amp;amp; playbook services" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="735" y="30" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xrs2LPAoIaT8d_hiwX7s-104" value="API Management ( AWS)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="574" y="10" width="151" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xrs2LPAoIaT8d_hiwX7s-105" value="AI Models" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600.5" y="185" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
