@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-23T08:14:17.056Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="tSeBHgrK8tW2UKn2akGR" version="24.4.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-05-23T08:24:40.772Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="Q7OzTZTH-RkTMuW5CURF" version="24.4.6" type="github" pages="6">
   <diagram name="Coomponent diagram" id="5f0bae14-7c28-e335-631c-24af17079c00">
     <mxGraphModel dx="1710" dy="1017" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -1088,7 +1088,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2OTTEMFDlny12Te7uyIg" name="WSF_Translation_Component_Diagram">
-    <mxGraphModel dx="1393" dy="950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="362" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1491,7 +1491,7 @@
         <mxCell id="r2p4kTXUWt_kDKK43L-V-35" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;Translation&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;Segment&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1816" y="1159.37" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="r2p4kTXUWt_kDKK43L-V-36" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;Ingest&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;translation&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="r2p4kTXUWt_kDKK43L-V-36" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;Ingest processed&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;translation&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1889.74" y="1161.02" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r2p4kTXUWt_kDKK43L-V-37" value="&lt;b&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Get&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;collection data&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
