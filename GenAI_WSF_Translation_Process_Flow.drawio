@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-23T12:15:37.665Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="JqJB4JYvi-3gQFjdX7KG" version="24.4.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-28T14:22:56.224Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="pDBRr1qY_rtWuNHHaQEF" version="24.4.6" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Pre Translation">
     <mxGraphModel dx="1857" dy="1628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -130,7 +130,7 @@
         <mxCell id="P1X8gdGfX_AeE12FRYum-36" value="Validate the references are used in sample translations" style="ellipse;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#e1d5e7;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-65" y="-1040" width="95" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="P1X8gdGfX_AeE12FRYum-38" value="Prepare a JSON file with the SEO data in it &amp;amp; save it in the &quot;cloud bucket&quot;." style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="P1X8gdGfX_AeE12FRYum-38" value="Prepare a JSON file with the SEO data in it &amp;amp; save it in the &quot;Firestore db&quot;." style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-250" y="-350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P1X8gdGfX_AeE12FRYum-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P1X8gdGfX_AeE12FRYum-40" target="P1X8gdGfX_AeE12FRYum-73" edge="1">
@@ -139,7 +139,7 @@
         <mxCell id="P1X8gdGfX_AeE12FRYum-40" value="Create a sample prompt &amp;amp; validate the data is looked up for translations" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-83" y="-350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P1X8gdGfX_AeE12FRYum-41" value="Prepare a JSON file with the BANNED KEYWORDS data in it &amp;amp; save it in the &quot;cloud bucket&quot;." style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="P1X8gdGfX_AeE12FRYum-41" value="Prepare a JSON file with the BANNED KEYWORDS data in it &amp;amp; save it in the &quot;Firestore db&quot;." style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-290" y="-475" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P1X8gdGfX_AeE12FRYum-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P1X8gdGfX_AeE12FRYum-42" target="P1X8gdGfX_AeE12FRYum-76" edge="1">
@@ -148,7 +148,7 @@
         <mxCell id="P1X8gdGfX_AeE12FRYum-42" value="Create a sample prompt &amp;amp; validate the data is looked up for translations" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-83" y="-475" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P1X8gdGfX_AeE12FRYum-43" value="Prepare a JSON file with the ONTOLOGY KEYWORDS data in it &amp;amp; save it in the &quot;cloud bucket&quot;." style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="P1X8gdGfX_AeE12FRYum-43" value="Prepare a JSON file with the ONTOLOGY KEYWORDS data in it &amp;amp; save it in the &quot;Firestore db&quot;." style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-290" y="-600" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P1X8gdGfX_AeE12FRYum-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P1X8gdGfX_AeE12FRYum-44" target="P1X8gdGfX_AeE12FRYum-77" edge="1">
@@ -160,7 +160,7 @@
         <mxCell id="P1X8gdGfX_AeE12FRYum-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P1X8gdGfX_AeE12FRYum-45" target="P1X8gdGfX_AeE12FRYum-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="P1X8gdGfX_AeE12FRYum-45" value="Prepare a JSON file with the VOCABULARY JSON data in it &amp;amp; save it in the &quot;cloud bucket&quot;." style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="P1X8gdGfX_AeE12FRYum-45" value="Prepare a JSON file with the VOCABULARY JSON data in it &amp;amp; save it in the &quot;Firestore db&quot;." style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-270" y="-915" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P1X8gdGfX_AeE12FRYum-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P1X8gdGfX_AeE12FRYum-23" target="P1X8gdGfX_AeE12FRYum-45" edge="1">
@@ -187,7 +187,7 @@
         <mxCell id="P1X8gdGfX_AeE12FRYum-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P1X8gdGfX_AeE12FRYum-51" target="P1X8gdGfX_AeE12FRYum-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="P1X8gdGfX_AeE12FRYum-51" value="Prepare a JSON file with the PREFERENCES JSON data in it &amp;amp; save it in the &quot;cloud bucket&quot;." style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#e1d5e7;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="P1X8gdGfX_AeE12FRYum-51" value="Prepare a JSON file with the PREFERENCES JSON data in it &amp;amp; save it in the &quot;&lt;span style=&quot;color: rgb(51, 51, 51);&quot;&gt;Firestore db&lt;/span&gt;&quot;." style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#e1d5e7;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-275" y="-770" width="130" height="85" as="geometry" />
         </mxCell>
         <mxCell id="P1X8gdGfX_AeE12FRYum-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P1X8gdGfX_AeE12FRYum-49" edge="1">
@@ -256,7 +256,7 @@
         <mxCell id="rPXvAKN24seW8_KVuXJ--1" value="COMPLETED" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="390" y="-1100" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PbI4cvdYDu8yA-9WZGzl-0" value="LOW CONFIDENCE FEEDBACK words&amp;nbsp; / phrases JSON file is created&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="PbI4cvdYDu8yA-9WZGzl-0" value="LOW CONFIDENCE FEEDBACK words&amp;nbsp; / phrases table in firestore is created&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-450" y="-210" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PbI4cvdYDu8yA-9WZGzl-2" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=#f5f5f5;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeColor=none;fontColor=#333333;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -321,7 +321,7 @@
         <mxCell id="WkbQCyuZwmRfDJxf0AiY-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WkbQCyuZwmRfDJxf0AiY-2" target="WkbQCyuZwmRfDJxf0AiY-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WkbQCyuZwmRfDJxf0AiY-2" value="&lt;div&gt;Selecting few shot examples for prompt&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#3399FF;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="WkbQCyuZwmRfDJxf0AiY-2" value="&lt;div&gt;Selecting few shot examples for prompt&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#D5E8D4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="450" y="72" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nJkHgxGsFe584s16ZJyn-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.38;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" edge="1">
@@ -334,7 +334,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WkbQCyuZwmRfDJxf0AiY-9" value="Selecting reference example approach based up on the threshold" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#3399FF;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="WkbQCyuZwmRfDJxf0AiY-9" value="Selecting reference example based up on the threshold" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#D5E8D4;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1770" y="200" width="120" height="65" as="geometry" />
         </mxCell>
         <mxCell id="WkbQCyuZwmRfDJxf0AiY-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WkbQCyuZwmRfDJxf0AiY-15" edge="1">
@@ -345,7 +345,7 @@
         <mxCell id="WkbQCyuZwmRfDJxf0AiY-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WkbQCyuZwmRfDJxf0AiY-15" target="WkbQCyuZwmRfDJxf0AiY-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WkbQCyuZwmRfDJxf0AiY-15" value="&lt;b&gt;Create 1st LLM Prompt&lt;/b&gt; using above reference example&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#3399FF;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="WkbQCyuZwmRfDJxf0AiY-15" value="&lt;b&gt;Create 1st LLM Prompt&lt;/b&gt; using above reference example&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#D5E8D4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="485" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WkbQCyuZwmRfDJxf0AiY-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="WkbQCyuZwmRfDJxf0AiY-22" target="WkbQCyuZwmRfDJxf0AiY-42" edge="1">
@@ -381,7 +381,7 @@
         <mxCell id="xdhJWvv6hGg7lV_TO2eW-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WkbQCyuZwmRfDJxf0AiY-30" target="xdhJWvv6hGg7lV_TO2eW-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WkbQCyuZwmRfDJxf0AiY-30" value="Update the prompt to indicate the keywords to be replaced in the TARGET VIETNAMESE TRANSLATED TEXT FROM PROMPT 2, with the found SEO keywords in the DB.&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="WkbQCyuZwmRfDJxf0AiY-30" value="Update the prompt to indicate the keywords to be replaced in the TARGET VIETNAMESE TRANSLATED TEXT FROM PROMPT 1, with the found SEO keywords in the DB.&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="882.5" y="840" width="287.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WkbQCyuZwmRfDJxf0AiY-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WkbQCyuZwmRfDJxf0AiY-26" target="WkbQCyuZwmRfDJxf0AiY-42" edge="1">
@@ -435,7 +435,7 @@
             <mxPoint x="542.5714285714284" y="2440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WkbQCyuZwmRfDJxf0AiY-62" value="&lt;b&gt;Create 6th LLM prompt&lt;/b&gt; to handle VOCAB keywords in the translated text ( Vietnamese)" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="WkbQCyuZwmRfDJxf0AiY-62" value="&lt;b&gt;Create 4th LLM prompt&lt;/b&gt; to handle VOCAB keywords in the translated text ( Vietnamese)" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="762.5" y="2210" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WkbQCyuZwmRfDJxf0AiY-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WkbQCyuZwmRfDJxf0AiY-64" target="WkbQCyuZwmRfDJxf0AiY-67" edge="1">
@@ -540,7 +540,7 @@
           <mxGeometry x="1480" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nJkHgxGsFe584s16ZJyn-24" value="Check for similar content in Vector DB as the source content" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1070" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="1070" y="69" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nJkHgxGsFe584s16ZJyn-29" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="710" y="380" width="433" height="160" as="geometry" />
@@ -551,7 +551,7 @@
         <mxCell id="WkbQCyuZwmRfDJxf0AiY-17" value="Reference example&lt;div&gt;(if any)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="nJkHgxGsFe584s16ZJyn-29" vertex="1">
           <mxGeometry x="40" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WkbQCyuZwmRfDJxf0AiY-19" value="Translation to reword according to the brand voice guidelines ontologies and USP keywords" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="nJkHgxGsFe584s16ZJyn-29" vertex="1">
+        <mxCell id="WkbQCyuZwmRfDJxf0AiY-19" value="Translation to reword according to the brand voice translation guidelines ontologies and USP keywords" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="nJkHgxGsFe584s16ZJyn-29" vertex="1">
           <mxGeometry x="240" y="30" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nJkHgxGsFe584s16ZJyn-30" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;TODOs&lt;/h1&gt;&lt;p&gt;Search strategy to use Vector DB or DSA Algorithms to optimize the search of keywords across iterations of creating prompts&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
@@ -598,7 +598,7 @@
             <mxPoint x="800" y="3145" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Dtnrud64Oj2BvcWQfBXR-14" value="&lt;b&gt;Create 7th LLM prompt&lt;/b&gt; to handle Low confidence feedback keywords in the translated text ( Vietnamese)" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="Dtnrud64Oj2BvcWQfBXR-14" value="&lt;b&gt;Create 5th LLM prompt&lt;/b&gt; to handle Low confidence feedback keywords in the translated text ( Vietnamese)" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1040" y="3000" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Dtnrud64Oj2BvcWQfBXR-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Dtnrud64Oj2BvcWQfBXR-16" target="Dtnrud64Oj2BvcWQfBXR-23" edge="1">
@@ -637,7 +637,7 @@
         <mxCell id="Dtnrud64Oj2BvcWQfBXR-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.417;entryY=0.039;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Dtnrud64Oj2BvcWQfBXR-20" target="Dtnrud64Oj2BvcWQfBXR-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Dtnrud64Oj2BvcWQfBXR-25" value="Low confidence keyword match keywords saved into database object as a list" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" parent="1" vertex="1">
+        <mxCell id="Dtnrud64Oj2BvcWQfBXR-25" value="Low confidence keyword match keywords saved into database object as a list" style="whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#9673a6;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1370" y="2830" width="166.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Dtnrud64Oj2BvcWQfBXR-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="WkbQCyuZwmRfDJxf0AiY-62" target="Dtnrud64Oj2BvcWQfBXR-27" edge="1">
@@ -706,25 +706,28 @@
           <mxGeometry x="583.63" y="155" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7ugmb057Yv6Ay-j3YivP-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="9" y="676" width="871" height="490" as="geometry" />
+          <mxGeometry x="10" y="656" width="871" height="490" as="geometry" />
         </mxCell>
         <mxCell id="7ugmb057Yv6Ay-j3YivP-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="7ugmb057Yv6Ay-j3YivP-7" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="750" as="sourcePoint" />
+            <mxPoint x="320" y="750" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="90" y="750" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7ugmb057Yv6Ay-j3YivP-4" value="The final translation result will further analyzed for translation confidence score" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="215" y="690" width="190" height="60" as="geometry" />
+        <mxCell id="7ugmb057Yv6Ay-j3YivP-4" value="The final translation result will further analyzed for translation compliance score" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="330" y="670" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8s7e52lxmnzvxT-scWep-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7ugmb057Yv6Ay-j3YivP-7">
+        <mxCell id="bDoIJC9O-UVhiuYIvgE7-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7ugmb057Yv6Ay-j3YivP-7" target="8s7e52lxmnzvxT-scWep-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="1010" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="90" y="970" />
+              <mxPoint x="435" y="970" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7ugmb057Yv6Ay-j3YivP-7" value="Create LLM prompt (GPT 4)&amp;nbsp;&lt;div&gt;for overall confidence score, it will generate a&amp;nbsp; score against a translation between 0 to 100.&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="7ugmb057Yv6Ay-j3YivP-7" value="Create LLM prompt (GPT 4)&amp;nbsp;&lt;div&gt;for product name validation in translation and generates a score between 0 to 100.&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="10" y="830" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="7ugmb057Yv6Ay-j3YivP-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7ugmb057Yv6Ay-j3YivP-9" edge="1">
@@ -742,60 +745,41 @@
             <mxPoint x="663.5037500000001" y="1031.8" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7ugmb057Yv6Ay-j3YivP-15" value="TRANSLATION CONFIDENCE SCORING JOURNEY STEPS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="7ugmb057Yv6Ay-j3YivP-15" value="TRANSLATION COMPLIANCE SCORING JOURNEY STEPS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="582.63" y="705" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8s7e52lxmnzvxT-scWep-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5XtjJKJyp4Qx9ZJZEgT9-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="1010" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5XtjJKJyp4Qx9ZJZEgT9-3" value="Create LLM prompt (GPT 4)&amp;nbsp;&lt;div&gt;for Fluency score, it will generate a&amp;nbsp; score against a translation between 0 to 100.&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="177" y="830" width="171" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="8s7e52lxmnzvxT-scWep-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5XtjJKJyp4Qx9ZJZEgT9-6" target="8s7e52lxmnzvxT-scWep-8">
+        <mxCell id="bDoIJC9O-UVhiuYIvgE7-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5XtjJKJyp4Qx9ZJZEgT9-3" target="8s7e52lxmnzvxT-scWep-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="435" y="963" />
-              <mxPoint x="420" y="963" />
+              <mxPoint x="301" y="970" />
+              <mxPoint x="435" y="970" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5XtjJKJyp4Qx9ZJZEgT9-6" value="Create LLM prompt (GPT 4)&amp;nbsp;&lt;div&gt;for terminology score, it will generate a&amp;nbsp; score against a translation between 0 to 100.&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="355" y="830" width="160" height="90" as="geometry" />
+        <mxCell id="5XtjJKJyp4Qx9ZJZEgT9-3" value="Create LLM prompt (GPT 4)&amp;nbsp;&lt;div&gt;for Ontology keywords validation in translation and generates a score between 0 to 100.&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="215" y="830" width="171" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="8s7e52lxmnzvxT-scWep-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5XtjJKJyp4Qx9ZJZEgT9-7" target="8s7e52lxmnzvxT-scWep-8">
+        <mxCell id="bDoIJC9O-UVhiuYIvgE7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5XtjJKJyp4Qx9ZJZEgT9-6" target="8s7e52lxmnzvxT-scWep-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="606" y="963" />
-              <mxPoint x="420" y="963" />
-              <mxPoint x="420" y="1006" />
+              <mxPoint x="540" y="970" />
+              <mxPoint x="435" y="970" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5XtjJKJyp4Qx9ZJZEgT9-7" value="Create LLM prompt (GPT 4)&amp;nbsp;&lt;div&gt;for consistancy score, it will generate a&amp;nbsp; score against a translation between 0 to 100.&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="520" y="830" width="171" height="90" as="geometry" />
+        <mxCell id="5XtjJKJyp4Qx9ZJZEgT9-6" value="Create LLM prompt (GPT 4)&amp;nbsp;&lt;div&gt;for Banned keywords validation in translation and generates a score between 0 to 100.&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="830" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="8s7e52lxmnzvxT-scWep-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5XtjJKJyp4Qx9ZJZEgT9-8" target="8s7e52lxmnzvxT-scWep-8">
+        <mxCell id="bDoIJC9O-UVhiuYIvgE7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5XtjJKJyp4Qx9ZJZEgT9-7" target="8s7e52lxmnzvxT-scWep-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="786" y="963" />
-              <mxPoint x="420" y="963" />
-              <mxPoint x="420" y="1006" />
+              <mxPoint x="735" y="970" />
+              <mxPoint x="435" y="970" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5XtjJKJyp4Qx9ZJZEgT9-8" value="Create LLM prompt (GPT 4)&amp;nbsp;&lt;div&gt;for style score, it will generate a&amp;nbsp; score against a translation between 0 to 100.&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="700" y="830" width="171" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="5XtjJKJyp4Qx9ZJZEgT9-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.537;exitY=0.989;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7ugmb057Yv6Ay-j3YivP-4" target="5XtjJKJyp4Qx9ZJZEgT9-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="224" y="730" as="sourcePoint" />
-            <mxPoint x="100" y="840" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="263" y="749" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="5XtjJKJyp4Qx9ZJZEgT9-7" value="Create LLM prompt (GPT 4)&amp;nbsp;&lt;div&gt;for SEO keywords validation in translation and generates a score between 0 to 100.&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="649" y="830" width="171" height="90" as="geometry" />
         </mxCell>
         <mxCell id="5XtjJKJyp4Qx9ZJZEgT9-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="5XtjJKJyp4Qx9ZJZEgT9-6">
           <mxGeometry relative="1" as="geometry">
@@ -811,13 +795,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5XtjJKJyp4Qx9ZJZEgT9-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="5XtjJKJyp4Qx9ZJZEgT9-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="750" as="sourcePoint" />
-            <mxPoint x="616" y="840" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="8s7e52lxmnzvxT-scWep-6" value="Save the results in the Database" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="337" y="1106" width="195" height="40" as="geometry" />
         </mxCell>
@@ -826,6 +803,9 @@
         </mxCell>
         <mxCell id="8s7e52lxmnzvxT-scWep-8" value="SAVE THE RESULTS IN THE DICTIONARY OBJECT" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="337.5" y="1000" width="195" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bDoIJC9O-UVhiuYIvgE7-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.333;entryY=0.355;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7ugmb057Yv6Ay-j3YivP-4" target="7ugmb057Yv6Ay-j3YivP-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
